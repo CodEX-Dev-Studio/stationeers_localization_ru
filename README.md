@@ -1,71 +1,85 @@
-# Stationeers Russian Localization / Локализация Stationeers на русский язык
+<!-- markdownlint-disable MD033 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Game-Stationeers-blue?style=for-the-badge&logo=steam" alt="Stationeers">
+  <img src="https://img.shields.io/badge/Version-v0.2.6217.27046-brightgreen?style=for-the-badge" alt="Game version">
+  <img src="https://img.shields.io/badge/Translation-v0.1.4-orange?style=for-the-badge" alt="Translation version">
+</p>
 
-**English** | **Русский**
+# 🚀 Stationeers Russian Localization / Локализация Stationeers на русский язык
+
+<p align="center">
+  <b>Полный перевод игры Stationeers на русский язык</b><br>
+  <b>Full Russian translation for Stationeers</b>
+</p>
 
 ---
 
-## English
+## 🇬🇧 English
 
 Russian translation for the game [Stationeers](https://store.steampowered.com/app/544550/Stationeers/).
 
-### Versions
+### 📦 Versions
 
-| Component        | Version                    | Date       |
-|------------------|----------------------------|------------|
-| Game             | v0.2.6217.27046            | 2026-03-19 |
-| Translation      | v0.1.4                     | 2026-03-20 |
+| Component       | Version           | Date       |
+|-----------------|-------------------|------------|
+| **Game**        | `v0.2.6217.27046` | 2026-03-19 |
+| **Translation** | `v0.1.4`          | 2026-03-20 |
 
-### Download
+### 📥 Download
 
-The mod is available on Steam Workshop:  
-[https://steamcommunity.com/sharedfiles/filedetails/?id=3686127579](https://steamcommunity.com/sharedfiles/filedetails/?id=3686127579)
+The mod is available on **Steam Workshop**:  
+🔗 [https://steamcommunity.com/sharedfiles/filedetails/?id=3686127579](https://steamcommunity.com/sharedfiles/filedetails/?id=3686127579)
 
-### Installation
+### ⚙️ Installation
 
-1. Subscribe to this mod in Steam Workshop.
-2. Launch the game and go to **Settings** → **Language**.
-3. Select **Russian**.
-4. IMPORTANT! Return to the main menu and click the checkmark in the **Workshop** section to activate the mod.
+1. Subscribe to the mod in Steam Workshop.  
+2. Launch the game and go to **Settings** → **Language**.  
+3. Select **Russian**.  
+4. **IMPORTANT!** Return to the main menu and click the checkmark in the **Workshop** section to activate the mod.  
 5. Restart the game for the translation to apply fully.
 
-### Report an error or suggest an improvement
+### 🐛 Report an issue / Suggest an improvement
 
-If you find a mistake in the translation or have a suggestion:
-- Write in the discussions on the mod page: [https://steamcommunity.com/sharedfiles/filedetails/?id=3686127579](https://steamcommunity.com/sharedfiles/filedetails/?id=3686127579)
-- Or create an **Issue** in this repository: [https://github.com/CodEX-Dev-Studio/stationeers_localization_RU/issues](https://github.com/CodEX-Dev-Studio/stationeers_localization_RU/issues)
+- **Steam Discussions:** [Mod page discussions](https://steamcommunity.com/sharedfiles/filedetails/?id=3686127579)  
+- **GitHub Issues:** [Create an issue](https://github.com/CodEX-Dev-Studio/stationeers_localization_RU/issues)
 
-Thank you for your help!
+Thank you for your support! 🙌
 
 ---
 
-## Русский
+## 🇷🇺 Русский
 
 Русский перевод игры [Stationeers](https://store.steampowered.com/app/544550/Stationeers/).
 
-### Версии
+### 📦 Версии
 
-| Компонент        | Версия                     | Дата       |
-|------------------|----------------------------|------------|
-| Игра             | v0.2.6217.27046            | 19.03.2026 |
-| Перевод          | v0.1.4                     | 20.03.2026 |
+| Компонент   | Версия            | Дата       |
+|-------------|-------------------|------------|
+| **Игра**    | `v0.2.6217.27046` | 19.03.2026 |
+| **Перевод** | `v0.1.4`          | 20.03.2026 |
 
-### Где скачать
+### 📥 Где скачать
 
-Мод доступен в Steam Workshop:  
-[https://steamcommunity.com/sharedfiles/filedetails/?id=3686127579](https://steamcommunity.com/sharedfiles/filedetails/?id=3686127579)
+Мод доступен в **Steam Workshop**:  
+🔗 [https://steamcommunity.com/sharedfiles/filedetails/?id=3686127579](https://steamcommunity.com/sharedfiles/filedetails/?id=3686127579)
 
-### Установка
+### ⚙️ Установка
 
-1. Подпишитесь на этот мод в мастерской Steam.
-2. Запустите игру и перейдите в **Настройки (Settings)** → **Язык (Language)**.
-3. Выберите язык **Русский (Russian)**.
-4. ВАЖНО! Вернитесь в главное меню и нажмите на галочку в разделе **«Мастерская»**, чтобы активировать мод.
+1. Подпишитесь на этот мод в мастерской Steam.  
+2. Запустите игру и перейдите в **Настройки (Settings)** → **Язык (Language)**.  
+3. Выберите язык **Русский (Russian)**.  
+4. **ВАЖНО!** Вернитесь в главное меню и нажмите на галочку в разделе **«Мастерская»**, чтобы активировать мод.  
 5. Перезапустите игру для полного применения перевода.
 
-### Сообщить об ошибке или предложить улучшение
+### 🐛 Сообщить об ошибке / Предложить улучшение
 
-Если вы нашли ошибку в переводе или хотите предложить улучшение:
-- Напишите в обсуждениях на странице мода: [https://steamcommunity.com/sharedfiles/filedetails/?id=3686127579](https://steamcommunity.com/sharedfiles/filedetails/?id=3686127579)
-- Или создайте **Issue** в этом репозитории: [https://github.com/CodEX-Dev-Studio/stationeers_localization_RU/issues](https://github.com/CodEX-Dev-Studio/stationeers_localization_RU/issues)
+- **Обсуждения в Steam:** [Страница мода](https://steamcommunity.com/sharedfiles/filedetails/?id=3686127579)  
+- **GitHub Issues:** [Создать обращение](https://github.com/CodEX-Dev-Studio/stationeers_localization_RU/issues)
 
-Благодарю за помощь!
+Спасибо за помощь! 🙌
+
+---
+
+<p align="center">
+  <i>Made with ❤️ for the Stationeers community</i>
+</p>
