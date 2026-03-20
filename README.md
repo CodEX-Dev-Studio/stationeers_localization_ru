@@ -14,7 +14,7 @@
 
 ---
 
-## 🇬🇧 English
+## 🇺🇸 English
 
 Russian translation for the game [Stationeers](https://store.steampowered.com/app/544550/Stationeers/).
 
