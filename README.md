@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Game-Stationeers-blue?style=for-the-badge&logo=steam" alt="Stationeers">
   <img src="https://img.shields.io/badge/Version-v0.2.6217.27046-brightgreen?style=for-the-badge" alt="Game version">
-  <img src="https://img.shields.io/badge/Translation-v0.1.7-orange?style=for-the-badge" alt="Translation version">
+  <img src="https://img.shields.io/badge/Translation-v0.1.8-orange?style=for-the-badge" alt="Translation version">
 </p>
 
 # 🚀 Stationeers Russian Localization / Локализация Stationeers на русский язык
@@ -23,7 +23,7 @@ Russian translation for the game [Stationeers](https://store.steampowered.com/ap
 | Component       | Version           | Date       |
 |-----------------|-------------------|------------|
 | **Game**        | `v0.2.6217.27046` | 2026-03-19 |
-| **Translation** | `v0.1.7`          | 2026-03-21 |
+| **Translation** | `v0.1.8`          | 2026-03-21 |
 
 ### 📥 Download
 
@@ -56,7 +56,7 @@ Thank you for your support! 🙌
 | Компонент   | Версия            | Дата       |
 |-------------|-------------------|------------|
 | **Игра**    | `v0.2.6217.27046` | 19.03.2026 |
-| **Перевод** | `v0.1.7`          | 21.03.2026 |
+| **Перевод** | `v0.1.8`          | 21.03.2026 |
 
 ### 📥 Где скачать
 
